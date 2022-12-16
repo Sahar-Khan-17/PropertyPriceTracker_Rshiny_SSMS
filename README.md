@@ -1,2 +1,3 @@
-# PropertyPriceTracker_Rshiny_SSMS
-Project : PropertyPriceTracker_Rshiny_SSMS
+#Project : PropertyPriceTracker_Rshiny_SSMS
+
+Scope
