@@ -1,4 +1,4 @@
-#Project : PropertyPriceTracker_Rshiny_SSMS
+#Project:PropertyPriceTracker_Rshiny_SSMS
 
 Introduction to the Organization
 This is an interactive app to help people analyze and visualize the housing market in the Dallas and to provide them with data on various types of homes for sale. Home prices in Dallas usually vary. Because home prices depend on the year it was built, the bedrooms of the house and the floor level. Our app can gather enormous information to provide buyers with data on which areas sell the most homes and what kinds of properties are sought after. 
@@ -18,3 +18,4 @@ ii. Sellers/Brokers: To stay updated with the current market standards/prices
 The organization creates value for customers during their planning stage to purchase a house since it is a huge one-time investment and considers a lot of factors like the price, size, etc. They can also use this app to manage their property listing information.
 We propose to build an R shiny application which can help potential customers to have an estimation and clarity before actual purchase based on their filtered requirements.
 
+URL : https://saharkhan.shinyapps.io/PPTWebApp/
